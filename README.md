@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Testing the Profile README.md feature...
+
 <!--
 **mine9607/mine9607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
